@@ -1,0 +1,12 @@
+===============================
+ Linux Automation Toolkit
+===============================
+1. System Information
+2. Disk Usage
+3. Memory Usage
+4. Network Information
+5. Exit
+===== SYSTEM INFORMATION =====
+Thu Oct  1 07:24:13 AM IST 2026
+valle-surya
+valle-surya-VirtualBox
